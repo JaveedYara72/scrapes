@@ -1,0 +1,2 @@
+if(ret['response']['return'][i]['update_time'] >= max_date):
+    max_date = ret['response']['return'][i]['update_time']

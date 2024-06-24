@@ -1,0 +1,195 @@
+,Inventory Count Date,11th feb 2023,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+0,,,,,,,,,
+1,SKU,Item Description,Category,Status,Location,Remarks,Count Quantity,Balance Quantity,Stock Low Level
+2,ERGOSUP2019-HR-BLK-S,"Supreme 2019 Head Rest, Black",Spare Parts,Phased out,2E BEHIND,,11,11,
+3,ERGOSUP2019-HR-RD-S,"Supreme 2019 Head Rest, Red",Spare Parts,Phased out,2E BEHIND,,4,4,
+4,ERGOSUP2019-BR-BLK-S,"Supreme 2019 Backrest, Black",Spare Parts,Phased out,2E BEHIND,,2,2,
+5,ERGOSUP2019-BR-RD-S,"Supreme 2019 Backrest, Red",Spare Parts,Phased out,2E BEHIND,,3,3,
+6,ERGOSUP2019-MH-S,Supreme 2019 Seat Mechanism (Mech Hub),Spare Parts,Phased out,2E BEHIND,,0,,
+7,ERGOSUP2019-AR-S,Supreme 2019 Arm Rest,Spare Parts,Phased out,2E BEHIND,,7,7,
+8,ERGOSUP2019-SB-BLK-S,"Supreme 2019 Seatbase, Black",Spare Parts,Phased out,2E BEHIND,,0,0,
+9,ERGOSUP2019-SB-RD-S,"Supreme 2019 Seatbase, Red",Spare Parts,Phased out,2E BEHIND,,0,0,
+10,ERGOSUP2019-GL-S,Supreme 2019 Gas Lift,Spare Parts,Phased out,2E BEHIND,,0,0,
+11,ERGOCLAS2019-GL-S,Classic 2019 Gas Lift,Spare Parts,Phased out,2E BEHIND,,3,,
+12,ERGOSUP2019-CW-S,Supreme 2019 Castor Wheels,Spare Parts,Phased out,2E BEHIND,,2,,
+13,GM ITEM,JC35RF-R12S WHITE FROM JIECANG,,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+14,GM ITEM,JC35RF-R12S BLACK FROM JIECANG,,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+15,ED 2389 1100X 750 MW,MN-WH 13/21,,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+16,1100X650 /6MK (L201),ERGOEDGE (WH-017/20) 1100X650,,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+17,1100X650 /8MK (3H6),ERGOEDGE (WH-020/20) 1100X650,,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+18,WH-L101S-1300X650(T)(L101S),MARVABLE (WH-008-21) WH 1300X650,,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+19,1300X650/6MK(3H6),ERGOEDGE WH 1300X 650,,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+20,1500X700/14MK(3C4),1500X700/14MK (3C4),,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+21,1500X700/14MK(3C2),1500X700/14MK (3C2),,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+22,GRPL201-1500X701,MARVABLE(WH-003/21),,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+23,MW-3C2-1500X700(T)(3C2),MARVABLE(WH-002/21),,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+24,1500X700/10MK(3C4),ERGOEDGE(WH-017/20),,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+25,1500X700/14MK(L201),ERGOEDGE(WH-005/20),,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+26,1500X700/14MK(L201),ERGOEDGE(WH-014/20),,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+27,,FUNNY TABLETOP SIZE,,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+28,GCX1600X600_FLP_WHITE,White TT 160cmX60cm (with wire flip),,Non-standard,GM KAJIE AREA,Check item and assign proper SKU / assign as mock up stock,1,1,
+29,EVERLITEV2-BLK-S,Lite Frame (Black),Frames,Live,LEVEL 1A,,3,3,2
+30,EVERLITEV2-WH-S,Lite Frame (White),Frames,Live,LEVEL 1A,,4,4,2
+31,ERGOTUNEV2-GL-170-S,Supreme V2 Gas Lift - 170,Spare Parts (Ergotune),Live,LEVEL 1A,,4,4,1
+32,ERGOTUNEV2-GL-140-S,Supreme V2 Gas Lift - 140,Spare Parts (Ergotune),Live,LEVEL 1A,,5,5,1
+33,ERGOTUNEV2-GL-150-S,Supreme V2 Gas Lift - 150,Spare Parts (Ergotune),Live,LEVEL 1A,,6,6,1
+34,EVERLITE-CABLE-S,Motor extension cable,Spare Parts (Lite Frame),Live,LEVEL 1A,,47,47,
+35,EVERLITE-CORD-S,Power Cord,Spare Parts (Lite Frame),Live,LEVEL 1A,,8,8,
+36,PEDES-D3-B.BLK-S,Pedestal (Black),Accessories,Live,LEVEL 1B,,2,2,1
+37,PEDES-D3-WH-S,Pedestal (White),Accessories,Live,LEVEL 1B,,2,2,1
+38,EVERMAXV3.0-BLK-G,MAX FRAME V3 ( BLACK),Frames,Live,LEVEL 1B,,6,6,3
+39,EVERMAXV3.0-WH-G,MAX FRAME V3 ( WHITE),Frames,Live,LEVEL 1B,,5,5,3
+40,GM ITEMS,LEG 2 STAGES BLACK,Spare Parts,Non-standard,LEVEL 1B,Check item and assign proper SKU / assign as mock up stock,2,2,
+41,EE-WHITE EXT 2 LEGS,LEG 3 STAGES WHITE,Spare Parts,Non-standard,LEVEL 1B,Check item and assign proper SKU / assign as mock up stock,1,1,
+42,EE-BLACK EXT 2X LEG,LIFTING COLUMN JC3STS-R13S BLACK,Spare Parts,Non-standard,LEVEL 1B,Check item and assign proper SKU / assign as mock up stock,1,1,
+43,ERGOCLASV2-MH-S,Classic V2 Mech Hub,Spare Parts (Classic),Live,LEVEL 1D,,10,10,
+44,EVERLITE-CONTROL-S,Lite Control Box,Spare Parts (Lite Frame),Live,LEVEL 1D,,6,6,4
+45,EVERMAXV3.0-CONTROL-S,Max Control Box,Spare Parts (Max Frame V3),Live,LEVEL 1D,,1,1,4
+46,AMPDESKSTD-CONTROL-S,Ampdesk Standard Frame Control Box,Spare Parts (Standard Frame),Phased Out,LEVEL 1D,,4,4,2
+47,ERGOSUPV2-MH-S,Supreme V2 Mech Hub,Spare Parts (Supreme),Live,LEVEL 1D,,1,1,5
+48,ECO-WT-1200X650-BLACK-S,CLASSIC TABLETOP PDT: 120 ONYX BLACK,Tabletop- Classic,Phased Out,LEVEL 1D,,2,2,
+49,ECO-WT-1400X650-BLACK-S,CLASSIC TABLETOP PDT: 140 ONYX BLACK,Tabletop- Classic,Live,LEVEL 1D,,3,3,2
+50,ECO-WT-1600X700-BLACK-S,CLASSIC TABLETOP PDT: 160 ONYX BLACK,Tabletop- Classic,Phased out,LEVEL 1D,,1,1,
+51,MCUG-TT-WH -1200X600-S,"EverDesk+ Monochrome Unigroove, 1200x600, Lily White",Tabletop- Monochrome Unigroove,Live,LEVEL 1D,,8,8,3
+52,MCUG-TT-WH -140X600-S,"EverDesk+ Monochrome Unigroove, 1400x600, Lily White",Tabletop- Monochrome Unigroove,Live,LEVEL 1D,,3,3,3
+53,MCUG-TT-WH -1600X700-S,"EverDesk+ Monochrome Unigroove, 1600x700, Lily White",Tabletop- Monochrome Unigroove,Live,LEVEL 1D,,2,2,3
+54,MCUG2-TT-BLK-1200x600-S,"EverDesk+ Monochrome Unigroove, 1200x600, Onyx Black",Tabletop- Monochrome Unigroove,Live,LEVEL 1D,,2,2,3
+55,MCUG2-TT-BLK-1400x600-S,"EverDesk+ Monochrome Unigroove, 1400x600, Onyx Black",Tabletop- Monochrome Unigroove,Live,LEVEL 1D,,3,3,3
+56,MCUG2-TT-BLK-1600x700-S,"EverDesk+ Monochrome Unigroove, 1600x700, Onyx Black",Tabletop- Monochrome Unigroove,Live,LEVEL 1D,,3,3,3
+57,NWUG-TT-WAL-1600x700-S,"EverDesk+ Natural Wood Unigroove, 1600x700, Aged darken walnut
+",Tabletop- Natural Wood,Live,LEVEL 1D,,2,2,3
+58,NWUG-TT-ASH-1600x700-S,"EverDesk+ Natural Wood Unigroove, 1600x700, Raw Ashen Oak
+",Tabletop- Natural Wood,Live,LEVEL 1D,,3,3,3
+59,NWUG-TT-WAL-1400x600-S,"EverDesk+ Natural Wood Unigroove, 1400x600, Aged Darkened Walnut
+",Tabletop- Natural Wood,Live,LEVEL 1D,,2,2,3
+60,NWUG-TT-ASH-1400x600-S,"EverDesk+ Natural Wood Unigroove, 1400x600, RAW Ashen Oak
+",Tabletop- Natural Wood,Live,LEVEL 1D,,3,3,3
+61,NWUG-TT-WAL-1200x600-S,"EverDesk+ Natural Wood Unigroove, 1200x600, Aged darken walnut
+",Tabletop- Natural Wood,Live,LEVEL 1D,,2,2,3
+62,NWUG-TT-ASH-1200x600-S,"EverDesk+ Natural Wood Unigroove, 1200x600, Raw Ashen Oak
+",Tabletop- Natural Wood,Live,LEVEL 1D,,2,2,3
+63,OAK-STRAIGHT-1300X650-S,WILD FOLKS PDT: 130 WF OAK,Tabletop- Wildfolks,Live,LEVEL 1D,,2,2,2
+64,SAW-STRAIGHT-1300X650-S,WILD FOLKS PDT: 130 WF WALNUT,Tabletop- Wildfolks,Live,LEVEL 1D,,1,1,2
+65,OAK-STRAIGHT-1500X700-S,WILD FOLKS PDT: 150 WF OAK,Tabletop- Wildfolks,Live,LEVEL 1D,,0,0,2
+66,SAW-STRAIGHT-1500X700-S,WILD FOLKS PDT: 150 WF WALNUT,Tabletop- Wildfolks,Live,LEVEL 1D,,1,1,2
+67,SAW-STRAIGHT-1800X700-S,WILD FOLKS PDT: 180 WF WALNUT,Tabletop- Wildfolks,Live,LEVEL 1D,,3,3,2
+68,ERGOSUPV2.1-HR-CORRD-S,Supreme V2.1 Red Headrest,Spare Parts (Supreme),Live,LEVEL 1F,,1,1,4
+69,ERGOSUPV2.1-HR-CBLK-S,Supreme V2.1 Black Headrest,Spare Parts (Supreme),Live,LEVEL 1F,,5,5,4
+70,ERGOSUPV2.1-HR-AQBL-S,Supreme V2.1 Blue Headrest,Spare Parts (Supreme),Live,LEVEL 1F,,6,6,4
+71,ERGOCLASV2-CBLK-S,ErgoTune Classic V2 - Charcoal Black,Chairs,Phased Out,LEVEL 1G,,3,3,2
+72,ERGOSUPV3.1-AQBL-S,Supreme V3.1 Aqua Blue,Chairs,Live,LEVEL 1G,,4,2,2
+73,ERGOSUPV3-AQBL-S,Supreme V3 Aqua Blue,Chairs,Live,LEVEL 1G,,0,0,2
+74,ERGOSUPV3-CBLK-S,Supreme V3 Charcoal Black,Chairs,Live,LEVEL 1G,,2,2,2
+75,ERGOSUPV3-CORRD-S,Supreme V3 Coral Red,Chairs,Live,LEVEL 1G,,4,4,2
+76,ERGOCLASV2-WB-S,Classic V2 Wheel Base,Spare Parts (Classic),Live,LEVEL 1G,,6,6,
+77,ERGOSUPV2-WB-S,Supreme V2 Wheel Base,Spare Parts (Supreme),Live,LEVEL 1G,,3,3,
+78,ERGOSUPV3-BR-CORRD-S,Supreme V3 Red Backrest ( NEW),Spare Parts (Supreme),Live,LEVEL 1G,,4,4,2
+79,ERGOSUPV3-BR-CBLK-S,Supreme V3 Black Backrest ( NEW),Spare Parts (Supreme),Live,LEVEL 1G,,3,3,2
+80,ERGOSUPV3-BR-AQBL-S,Supreme V3 Blue Backrest ( NEW),Spare Parts (Supreme),Live,LEVEL 1G,,2,2,2
+81,ERGOCLASV2-BR-CBLK-S,Classic V2 Black Backrest,Spare Parts (Classic),Live,LEVEL 1H,,2,2,2
+82,ERGOSUPV2.1-BR-CORRD-S,Supreme V2.1 Red Backrest,Spare Parts (Supreme),Phased Out,LEVEL 1H,,4,4,
+83,ERGOSUPV2.1-BR-CBLK-S,Supreme V2.1 Black Backrest,Spare Parts (Supreme),Phased Out,LEVEL 1H,,2,2,
+84,ERGOSUPV2.1-BR-AQBL-S,Supreme V2.1 Blue Backrest,Spare Parts (Supreme),Phased Out,LEVEL 1H,,4,4,
+85,LT11-BLK-S,Hover Light Bar,Accessories,Live,LEVEL 2A,,4,4,4
+86,PC-GREY-V2-I,Power Cube (AU),Accessories,Live,LEVEL 2A,,83,83,
+87,PC-GREY-V2-G,Power Cube,Accessories,Live,LEVEL 2A,,6,6,6
+88,SP-GREY-S,UniGroove Cable Stopper - worth $30,Accessories,Live,LEVEL 2A,,48,48,
+89,DM-C.BLK-S,Leather Desk Mat (Black),Accessories,Live,LEVEL 2A,,5,5,
+90,DM-T.BN-S,Leather Desk Mat (Brown),Accessories,Live,LEVEL 2A,,33,33,
+91,MP-C.BLK-S,Mouse Pad (Black),Accessories,Live,LEVEL 2A,,79,79,
+92,MP-T.BN-S,Mouse Pad (Brown),Accessories,Live,LEVEL 2A,,117,117,
+93,CW-TABLES-V2-S,Desk Castor,Accessories,Live,LEVEL 2A,,5,5,5
+94,VESA-BLK-S,1 X VESA Adaptor,Accessories,Live,LEVEL 2A,,7,7,5
+95,LPSTD-BLK,Laptop Stand,Accessories,Live,LEVEL 2A,,8,8,5
+96,CS-BLK-S,Cable Spine (Black),Accessories,Live,LEVEL 2A,,7,7,5
+97,CS-WH-S,Cable Spine (White),Accessories,Live,LEVEL 2A,,4,4,5
+98,LPHD-BLK-S,Laptop Holder - Monitor Arm Attachment,Accessories,Live,LEVEL 2A,,8,8,8
+99,VLPSTD-BLK-S,Laptop Dock Black ,Accessories,Live,LEVEL 2A,,10,10,8
+100,PX-3M-G,3M Cable Extension,Accessories,Live,LEVEL 2A,,7,7,6
+101,ED-WP-BLK-S,KEYBOARD WRIST PAD ,Accessories,Live,LEVEL 2A,,8,8,8
+102,DBLMONARM-BLK-S,Freedom Monitor Arm - DOUBLE,Accessories,Phased Out,LEVEL 2A,,4,4,
+103,SGLMONARM-BLK-S,Freedom Monitor Arm - Single,Accessories,Phased Out,LEVEL 2A,,25,25,
+104,DBLMONARM-BLK-V2-S,FREEDOM MONITOR ARM FLOAT SERIES: DOUBLE,Accessories,Live,LEVEL 2A,,3,3,6
+105,SGLMONARM-BLK-V2-S,"FREEDOM MONITOR ARM FLOAT SERIES: SINGLE
+",Accessories,Live,LEVEL 2A,,2,2,6
+106,CMTRAY-BLK-V2-S,Cable Tray (Black),Accessories,Live,LEVEL 2A,,8,8,8
+107,"CMTRAY-WH-V2-S
+",Cable Tray (White),Accessories,Live,LEVEL 2A,,9,9,8
+108,MONARM-BLK-V2-S,Float Monitor Arm - Arm Only,Accessories,Live,LEVEL 2A,,20,20,
+109,AFM-BLK-S,Anti Fatigue Mat,Accessories,Live,LEVEL 2B,,3,3,2
+110,PEG-ACCESSORIES-BLACK-S,Black PegBoard Accessories,Accessories,Live,LEVEL 2B,,5,5,5
+111,PEG-ACCESSORIES-WHITE-S,White PegBoard Accessories,Accessories,Live,LEVEL 2B,,2,2,5
+112,PEG-PANELS-WHITE-S,White PegBoard Panel,Accessories,Live,LEVEL 2B,,3,3,5
+113,PEG-PANELS-BLACK-S,Black PegBoard Panel,Accessories,Live,LEVEL 2B,,2,2,5
+114,US-BLACK-S,Switch Underdesk Storage (Black),Accessories,Live,LEVEL 2B,,2,2,
+115,US-WHITE-S,Switch Underdesk Storage (White),Accessories,Live,LEVEL 2B,,2,2,
+116,ROUNDHS-V2-BLK-S,Health coach,Spare Parts (Max Frame V3),Live,LEVEL 2B,,46,46,
+117,ROUNDHS.2-BLK-S,Round Controller (Ampdesk),Spare Parts (Standard Frame),Phased Out,LEVEL 2B,,18,18,
+118,ERGOCLASV2-BR-MECH-S,Classic Backrest Mechanism,Spare Parts (Classic),Live,LEVEL 2C,,3,3,
+119,ERGOTUNEV2-CW-S,V2 Castor Wheels,Spare Parts (Ergotune),Live,LEVEL 2C,,7,7,5
+120,ERGOTUNE-BRCOVER,ErgoTune Backrest Cover ,Spare Parts (Ergotune),Live,LEVEL 2C,,11,11,
+121,ERGOSUPV2.1-BR-MECH-S,Supreme  Backrest Mechanism,Spare Parts (Supreme),Live,LEVEL 2C,,13,13,
+122,ERGOTUNEV2-SS,V2 Screw Set,Spare Parts (Ergotune),Live,LEVEL 2C,,11,11,
+123,ED-SHF-580X180-WAL-S,58cm Aged Darkened Walnut Shelf,Accessories,Phased Out,LEVEL 2D,,3,3,
+124,ED-SHF-580x180-ASH-S,58cm Raw Ashen Oak Shelf,Accessories,Phased Out,LEVEL 2D,,2,2,
+125,NW-SHF-ASH-360X180-S,36cm Raw Ashen Oak Shelf *NEW*,Accessories,Live,LEVEL 2D,,2,2,3
+126,NW-SHF-WAL-360X180-S,36cm Aged Darkened Walnut Shelf *NEW*,Accessories,Live,LEVEL 2D,,4,4,3
+127,NW-SHF-ASH-580X180-S,58cm Raw Ashen Oak Shelf *NEW*,Accessories,Live,LEVEL 2D,,4,4,3
+128,NW-SHF-WAL-580X180-S,58cm Aged Darkened Walnut Shelf *NEW*,Accessories,Live,LEVEL 2D,,5,5,3
+129,INFINITY- BLK-S,ERGOedge infinity Riser,Accessories,Live,LEVEL 2D,,1,1,
+130,MP-C.BLK-S,Mouse Pad (Black),Accessories,Live,LEVEL 2D,,378,378,
+131,MP-T.BN-S,Mouse Pad (Brown),Accessories,Live,LEVEL 2D,,789,789,
+132,ELEVATE-BLK-S,Standard Desk Riser - elevate,Accessories,Phased Out,LEVEL 2D,,2,2,
+133,ED-SHF-360X180-WAL-S,36cm Aged Darkened Walnut Shelf ( Salavged),Accessories,Phased Out,LEVEL 2E,,72,72,
+134,ED-SHF-360X180-ASH-S,36cm Raw Ashen Oak Shelf ( Salvaged),Accessories,Phased Out,LEVEL 2E,,115,115,
+135,PEG-FRAME-WHITE-S,"Everdesk Pegboard Series :
+ Magnetic Photo Frame, White",Spare Parts (Accessories),Live,LEVEL 2E,,9,9,
+136,PEG-FRAME-BLACK-S,"Everdesk Pegboard Series :
+ Magnetic Photo Frame, BLACK",Spare Parts (Accessories),Live,LEVEL 2E,,5,5,
+137,PEG-HOOK-BLACK-S,"Everdesk Pegboard Series :
+ Hook, Black",Spare Parts (Accessories),Live,LEVEL 2E,,4,4,
+138,PEG-HOOK-WHITE-S,"Everdesk Pegboard Series :
+ Hook, White",Spare Parts (Accessories),Live,LEVEL 2E,,5,5,
+139,PEG-KNOB-BLACK-S,"Everdesk Pegboard Series :
+ Knob, Black",Spare Parts (Accessories),Live,LEVEL 2E,,5,5,
+140,PEG-KNOB-WHITE-S,"Everdesk Pegboard Series :
+ Knob, White",Spare Parts (Accessories),Live,LEVEL 2E,,5,5,
+141,PEG-SHELF-VASE-BLACK-S,"Everdesk Pegboard Series :
+ Shelf With Glass Vase, Black",Spare Parts (Accessories),Live,LEVEL 2E,,12,12,
+142,PEG-SHELF-VASE-WHITE-S,"Everdesk Pegboard Series :
+ Shelf With Glass Vase, White",Spare Parts (Accessories),Live,LEVEL 2E,,5,5,
+143,PEG-SHELF-BLACK-S,"Everdesk Pegboard Series :
+ Shelf, Black",Spare Parts (Accessories),Live,LEVEL 2E,,3,3,
+144,PEG-SHELF-WHITE-S,"Everdesk Pegboard Series :
+ Shelf, White",Spare Parts (Accessories),Live,LEVEL 2E,,6,6,
+145,PEG-HOLDER-BLACK-S,"Everdesk Pegboard Series :
+ Stationery Holder, Black",Spare Parts (Accessories),Live,LEVEL 2E,,10,10,
+146,PEG-HOLDER-WHITE-S,"Everdesk Pegboard Series :
+ Stationery Holder, White",Spare Parts (Accessories),Live,LEVEL 2E,,9,9,
+147,PEG-LINKSCREW-BLACK-S,"Everdesk Pegboard Series :
+ Link Screw, Black",Spare Parts (Accessories),Live,LEVEL 2E,,5,5,
+148,PEG-LINKSCREW-WHITE-S,"Everdesk Pegboard Series :
+ Link Screw, White",Spare Parts (Accessories),Live,LEVEL 2E,,2,2,
+149,PEG-PANELCLAMP-BLACK-S,"Everdesk Pegboard Series :
+ Panel Clamp, Black",Spare Parts (Accessories),Live,LEVEL 2E,,5,5,
+150,PEG-PANELCLAMP-WHITE-S,"Everdesk Pegboard Series :
+ Panel Clamp, White",Spare Parts (Accessories),Live,LEVEL 2E,,4,4,
+151,EVERLITE-CBAR-S,Aluminum Transfer Bar,Spare Parts (Lite Frame),Live,LEVEL 2G,,15,15,
+152,EVERLITE-LBAR-S,Short Transfer Bar,Spare Parts (Lite Frame),Live,LEVEL 2G,,14,14,
+153,EVERLITE-RBAR-S,Long Transfer Bar,Spare Parts (Lite Frame),Live,LEVEL 2G,,6,6,
+154,AMPDESK-MEMCON-S,Ampdesk Frame Memory Controller (Ergoedge / No Logo) ,Spare Parts (Standard Frame),Phased Out,LEVEL 2G,,15,15,
+155,Headrest attachment,Headrest attachment,Spare Parts (Supreme),Phased Out,LEVEL 2G,To Assign SKU,14,14,
+156,ERGOCLASV2-SB-CBLK-S,Classic V2 Black Seatbase,Spare Parts (Classic),Live,LEVEL 2H,,13,13,
+157,ERGOSUPV2.1-SB-CBLK-S,Supreme V2.1 Black Seatbase,Spare Parts (Supreme),Live,LEVEL 2H,,13,13,
+158,ERGOSUPV2.1-SB-AQBL-S,Supreme V2.1 Blue Seatbase,Spare Parts (Supreme),Live,LEVEL 2H,,7,7,
+159,ERGOSUPV2.1-SB-CORRD-S,Supreme V2.1 Red Seatbase,Spare Parts (Supreme),Live,LEVEL 2H,,6,6,
+160,EVERSOLO-LEG-BLK-G,"EVERDESK , BLACK LEGS",Frames,Live,LEVEL 2I,,5,5,
+161,EVERSOLO-BASE-BLK-G,"EVERDESK BLACK, SOLO ",Frames,Live,LEVEL 2I,,3,3,
+162,EVERSOLO-BASE-WH-G,"EVERDESK WHITE, SOLO ",Frames,Live,LEVEL 2I,,3,3,
+163,EVERSOLO-LEG-WH-G,"EVERDESK , WHITE, LEGS ",Frames,Live,LEVEL 2I,,3,3,
+164,EVERSOLO-CONTROL-S,EVERSOLO Spare Part: Control Box,Frames,Live,LEVEL 2I,,6,6,
+165,ERGOCLASV2-AR-S,Classic V2 Armrest,Spare Parts (Classic),Live,LEVEL 2I,,30,30,
+166,ERGOSUPV2-HR-CBLK-S,Supreme V2 Black Headrest,Spare Parts (Supreme),Phased Out,LEVEL 2I,,25,25,
+167,ERGOSUPV2-HR-AQBL-S,Supreme V2 Blue Headrest,Spare Parts (Supreme),Phased Out,LEVEL 2I,,3,3,
+168,ERGOSUPV2-HR-CORRD-S,Supreme V2 Red Headrest,Spare Parts (Supreme),Phased Out,LEVEL 2I,,24,24,5
+169,ERGOSUPV2.1-AR-S,Supreme V2 Armrest,Spare Parts (Supreme),Live,LEVEL 2I,,7,7,5

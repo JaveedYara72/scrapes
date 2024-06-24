@@ -1,0 +1,645 @@
+1675683972598	geckodriver	INFO	Listening on 127.0.0.1:64171
+1675683975685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofile6DMWm9"
+1675683979947	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675683979955	Marionette	INFO	Listening on port 64216
+Read port: 64216
+WebDriver BiDi listening on ws://127.0.0.1:64172
+1675683980153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofile6DMWm9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64172/devtools/browser/d961b15b-0518-4eba-9a47-aeda1707543f
+1675684000823	Marionette	INFO	Stopped listening on port 64211675684002498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileG0ck93"
+1675684002849	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675684002854	Marionette	INFO	Listening on port 64323
+Read port: 64323
+WebDriver BiDi listening on ws://127.0.0.1:64311
+1675684003013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileG0ck93\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64311/devtools/browser/017206e1-2b8d-4358-8c5a-6d1626faac39
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675684390451	Marionette	INFO	Stopped listening on port 64323
+Dynamically enable window occlusion 1
+ow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofile5OVsgP"
+1675684374269	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675684374275	Marionette	INFO	Listening on port 49254
+Read port: 49254
+WebDriver BiDi listening on ws://127.0.0.1:49245
+1675684374433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofile5OVsgP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49245/devtools/browser/9327a83a-3a83-489d-a1d0-1201799aeb03
+1675684668367	geckodriver	INFO	Listening on 127.0.0.1:50219
+1675684671438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50220" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilexFQd14"
+1675684671861	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675684671866	Marionette	INFO	Listening on port 50245
+Read port: 50245
+WebDriver BiDi listening on ws://127.0.0.1:50220
+1675684672026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilexFQd14\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50220/devtools/browser/ff653722-aef1-4eac-aa50-54bdaf4fb272
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675686469735	Marionette	INFO	Stopped listening on port 50245
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63046" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofile2wvfqR"
+1675686385863	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675686385870	Marionette	INFO	Listening on port 63056
+Read port: 63056
+WebDriver BiDi listening on ws://127.0.0.1:63046
+1675686386040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofile2wvfqR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63046/devtools/browser/29242c61-6eaf-418b-9999-906c99978f3e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1675686470947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileUuZGKs"
+1675686471351	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675686471357	Marionette	INFO	Listening on port 63413
+Read port: 63413
+WebDriver BiDi listening on ws://127.0.0.1:63404
+1675686471561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileUuZGKs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63404/devtools/browser/6c5b5070-4419-4891-a8dc-2c7f07e2e959
+[Parent 23388, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675686779702	Marionette	INFO	Stopped listening on port 63413
+Dynamically enable window occlusion 1
+[Parent 23388, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+E~1\\AppData\\Local\\Temp\\rust_mozprofile7vMRuV"
+1675686775634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675686775640	Marionette	INFO	Listening on port 50770
+Read port: 50770
+WebDriver BiDi listening on ws://127.0.0.1:50760
+1675686775809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofile7vMRuV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50760/devtools/browser/1c3d549c-551a-4821-8ff3-d340cb4e5ad1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675686854188	Marionette	INFO	Stopped listening on port 50770
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50980" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilezPvu66"
+1675686826658	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675686826663	Marionette	INFO	Listening on port 51019
+Read port: 51019
+WebDriver BiDi listening on ws://127.0.0.1:50980
+1675686826869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilezPvu66\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50980/devtools/browser/461fe640-a14a-4ca9-a2df-f90067e89e84
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675687036054	Marionette	INFO	Stopped listening on port 51019
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileukscZL"
+1675686924557	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675686924562	Marionette	INFO	Listening on port 51388
+Read port: 51388
+WebDriver BiDi listening on ws://127.0.0.1:51379
+1675686924723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileukscZL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51379/devtools/browser/eee2d7fa-d8ff-47b6-ad9a-eda32a5b063a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675687216279	Marionette	INFO	Stopped listening on port 51388
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilezYDXQf"
+1675687037657	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675687037664	Marionette	INFO	Listening on port 51853
+Read port: 51853
+WebDriver BiDi listening on ws://127.0.0.1:51813
+1675687037831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilezYDXQf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51813/devtools/browser/f789012c-927b-46d0-b779-a4491574a52f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675687217411	Marionette	INFO	Stopped listening on port 51853
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofile1lWcHD"
+1675687124220	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675687124226	Marionette	INFO	Listening on port 64097
+Read port: 64097
+WebDriver BiDi listening on ws://127.0.0.1:64085
+1675687124386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofile1lWcHD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64085/devtools/browser/1d2cc0bc-d635-4da9-aad1-b62ab3e6c836
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675687218379	Marionette	INFO	Stopped listening on port 64097
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilewOAX8k"
+1675687212687	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675687212693	Marionette	INFO	Listening on port 64466
+Read port: 64466
+WebDriver BiDi listening on ws://127.0.0.1:64457
+1675687212895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilewOAX8k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64457/devtools/browser/67ac47c4-06fa-4ef3-8db2-cd1d0d013e68
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675687417214	Marionette	INFO	Stopped listening on port 64466
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilejFsR7T"
+1675687307434	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675687307439	Marionette	INFO	Listening on port 64866
+Read port: 64866
+WebDriver BiDi listening on ws://127.0.0.1:64826
+1675687307585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilejFsR7T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64826/devtools/browser/2be7dbe7-a0bf-4d27-a1f1-e5dd0b1ad44e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675687420271	Marionette	INFO	Stopped listening on port 64866
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileo9tmI7"
+1675687413804	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675687413809	Marionette	INFO	Listening on port 65276
+Read port: 65276
+WebDriver BiDi listening on ws://127.0.0.1:65268
+1675687413972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileo9tmI7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65268/devtools/browser/cfa7237d-661d-4977-a789-e048128435d9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675687582175	Marionette	INFO	Stopped listening on port 65276
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileQoo93E"
+1675687461803	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675687461809	Marionette	INFO	Listening on port 65494
+Read port: 65494
+WebDriver BiDi listening on ws://127.0.0.1:65485
+1675687461992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileQoo93E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65485/devtools/browser/af46b1e2-20e7-43d8-ac0a-652c4bfb5a1a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675687582791	Marionette	INFO	Stopped listening on port 65494
+Dynamically enable window occlusion 1
+[Parent 3824, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+EE~1\\AppData\\Local\\Temp\\rust_mozprofileNklCzf"
+1675687509392	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675687509398	Marionette	INFO	Listening on port 49333
+Read port: 49333
+WebDriver BiDi listening on ws://127.0.0.1:49295
+1675687509560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileNklCzf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49295/devtools/browser/19f0128b-9955-4db1-a5c0-e3fd98c6d766
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675687735025	Marionette	INFO	Stopped listening on port 49333
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileL0i7tI"
+1675687583766	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675687583771	Marionette	INFO	Listening on port 49907
+Read port: 49907
+WebDriver BiDi listening on ws://127.0.0.1:49898
+1675687583934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileL0i7tI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49898/devtools/browser/110c9959-3f0d-4239-abc5-cbdac80556b6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675687736125	Marionette	INFO	Stopped listening on port 49907
+Dynamically enable window occlusion 1
+[Parent 25384, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilef3BdjB"
+1675687638228	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675687638234	Marionette	INFO	Listening on port 50228
+Read port: 50228
+WebDriver BiDi listening on ws://127.0.0.1:50188
+1675687638403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilef3BdjB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50188/devtools/browser/367618e7-b0a7-4142-b731-b085a7ede91f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675687993276	Marionette	INFO	Stopped listening on port 50228
+Dynamically enable window occlusion 1
+ow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileX1dLB6"
+1675687826538	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675687826545	Marionette	INFO	Listening on port 55892
+Read port: 55892
+WebDriver BiDi listening on ws://127.0.0.1:55881
+1675687826711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileX1dLB6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55881/devtools/browser/f64a8559-5d47-4ae3-af78-3156751aafe6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675687994078	Marionette	INFO	Stopped listening on port 55892
+Dynamically enable window occlusion 1
+ow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilesVXKSc"
+1675687959167	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675687959174	Marionette	INFO	Listening on port 56436
+Read port: 56436
+WebDriver BiDi listening on ws://127.0.0.1:56398
+1675687959368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilesVXKSc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56398/devtools/browser/5f9707d8-581f-4c5e-bc7e-01df924e6c22
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675689020638	Marionette	INFO	Stopped listening on port 56436
+Dynamically enable window occlusion 1
+24	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675688728730	Marionette	INFO	Listening on port 60046
+Read port: 60046
+WebDriver BiDi listening on ws://127.0.0.1:60005
+1675688728903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileSNpl2h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60005/devtools/browser/fdb283f3-4b7e-4ddf-91c1-2cfa35b0ace7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675689021212	Marionette	INFO	Stopped listening on port 60046
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60372" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilekJbTZC"
+1675688819153	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675688819166	Marionette	INFO	Listening on port 60411
+Read port: 60411
+WebDriver BiDi listening on ws://127.0.0.1:60372
+1675688819332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilekJbTZC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60372/devtools/browser/87429420-70f2-489d-a417-31e71bf660df
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675689096675	geckodriver	INFO	Listening on 127.0.0.1:61464
+1675689099753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileIuWBeN"
+1675689100077	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675689100082	Marionette	INFO	Listening on port 61503
+Read port: 61503
+WebDriver BiDi listening on ws://127.0.0.1:61465
+1675689100289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileIuWBeN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61465/devtools/browser/4585c625-ccf3-442e-a499-3fe7d5dd8984
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675715199587	geckodriver	INFO	Listening on 127.0.0.1:56419
+1675715202688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilecvRCdA"
+1675715206980	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675715206988	Marionette	INFO	Listening on port 56430
+Read port: 56430
+WebDriver BiDi listening on ws://127.0.0.1:56420
+1675715207361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilecvRCdA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56420/devtools/browser/6e60d20a-28a9-470e-ae5a-cd8781ecbaf2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675749143575	geckodriver	INFO	Listening on 127.0.0.1:63650
+1675749146630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofile2QJ7ak"
+1675749147027	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675749147033	Marionette	INFO	Listening on port 63685
+Read port: 63685
+WebDriver BiDi listening on ws://127.0.0.1:63651
+1675749147198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofile2QJ7ak\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63651/devtools/browser/ccbb91cf-8258-4b0c-8db5-1e21c9951448
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675749242117	Marionette	INFO	Stopped listening on port 63685
+Dynamically enable window occlusion 1
+1675749246049	geckodriver	INFO	Listening on 127.0.0.1:64021
+1675749249143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64022" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileHRasP7"
+1675749249396	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675749249400	Marionette	INFO	Listening on port 64058
+Read port: 64058
+WebDriver BiDi listening on ws://127.0.0.1:64022
+1675749249524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileHRasP7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64022/devtools/browser/77c84248-06a8-478e-9ab4-31f7c8f62058
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675751098750	Marionette	INFO	Stopped listening on port 64058
+Dynamically enable window occlusion 1
+1675751711273	geckodriver	INFO	Listening on 127.0.0.1:59769
+1675751714314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilemy7LzB"
+1675751714588	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675751714593	Marionette	INFO	Listening on port 59779
+Read port: 59779
+WebDriver BiDi listening on ws://127.0.0.1:59770
+1675751714721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilemy7LzB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59770/devtools/browser/ff90cf9a-ae42-4e2a-9b81-0f95472bbcde
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675751948063	Marionette	INFO	Stopped listening on port 59779
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileyPzeJ6"
+1675751834817	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675751834822	Marionette	INFO	Listening on port 60192
+Read port: 60192
+WebDriver BiDi listening on ws://127.0.0.1:60183
+1675751834949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileyPzeJ6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60183/devtools/browser/a4896c31-39d1-448d-a957-c3194e3064cf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675751949068	Marionette	INFO	Stopped listening on port 60192
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60571" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilephQVUi"
+1675751942266	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675751942270	Marionette	INFO	Listening on port 60603
+Read port: 60603
+WebDriver BiDi listening on ws://127.0.0.1:60571
+1675751942399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilephQVUi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60571/devtools/browser/1a29c70e-2ce5-4269-b0fb-43e2a475ae61
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1675752035261	Marionette	INFO	Stopped listening on port 60601675752036190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60020" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileSLJjp7"
+1675752036498	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675752036503	Marionette	INFO	Listening on port 60031
+Read port: 60031
+WebDriver BiDi listening on ws://127.0.0.1:60020
+1675752036649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileSLJjp7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60020/devtools/browser/609d5e05-fc51-4216-9fa4-d744ee64bb94
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60678
+1675752225494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilecVhy5P"
+1675752225776	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675752225782	Marionette	INFO	Listening on port 60690
+Read port: 60690
+WebDriver BiDi listening on ws://127.0.0.1:60679
+1675752225927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilecVhy5P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60679/devtools/browser/fb58ce4a-aa73-42bd-afc6-3180d87c671e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60981
+1675752308526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60982" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilegtfIuP"
+1675752308833	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675752308840	Marionette	INFO	Listening on port 60992
+Read port: 60992
+WebDriver BiDi listening on ws://127.0.0.1:60982
+1675752308981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilegtfIuP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60982/devtools/browser/021d5360-c0d4-49fe-a194-d58a34a62e43
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1675774252005	geckodriver	INFO	Listening on 127.0.0.1:61173
+1675774255064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61174" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileJAOm2e"
+1675774259452	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675774259459	Marionette	INFO	Listening on port 61194
+Read port: 61194
+WebDriver BiDi listening on ws://127.0.0.1:61174
+1675774259724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileJAOm2e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61174/devtools/browser/7dc07ae2-ef05-4bb1-91d2-7ac825912dee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1677056742811	geckodriver	INFO	Listening on 127.0.0.1:57290
+1677056745869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileBF2azH"
+1677056750168	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677056750181	Marionette	INFO	Listening on port 57331
+Read port: 57331
+WebDriver BiDi listening on ws://127.0.0.1:57291
+1677056750417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileBF2azH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57291/devtools/browser/e86ecac5-7ae3-42c0-97f3-f56b322e221b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1677056855951	Marionette	INFO	Stopped listening on port 57331
+Dynamically enable window occlusion 1
+[Parent 26244, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+E~1\\AppData\\Local\\Temp\\rust_mozprofileMUyvHe"
+1677056851546	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677056851552	Marionette	INFO	Listening on port 57800
+Read port: 57800
+WebDriver BiDi listening on ws://127.0.0.1:57793
+1677056851751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileMUyvHe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57793/devtools/browser/6baba160-998e-470f-8b7c-58a64c9d1e05
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1677056980072	geckodriver	INFO	Listening on 127.0.0.1:58255
+1677056983245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileAKB3Xq"
+1677056984046	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677056984064	Marionette	INFO	Listening on port 58263
+Read port: 58263
+WebDriver BiDi listening on ws://127.0.0.1:58256
+1677056984392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileAKB3Xq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58256/devtools/browser/ca60e529-0a74-4708-96c4-a0fce50a89f0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1677057030125	Marionette	INFO	Stopped listening on port 58263
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677057039841	geckodriver	INFO	Listening on 127.0.0.1:58486
+1677057042893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileJuiDL6"
+1677057043401	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677057043407	Marionette	INFO	Listening on port 58494
+Read port: 58494
+WebDriver BiDi listening on ws://127.0.0.1:58487
+1677057043591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileJuiDL6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58487/devtools/browser/9b5c7ae6-b2a3-4f97-919e-5a1557f885e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1677057150478	Marionette	INFO	Stopped listening on port 58494
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileO26LL1"
+1677057147104	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677057147111	Marionette	INFO	Listening on port 58906
+Read port: 58906
+WebDriver BiDi listening on ws://127.0.0.1:58867
+1677057147371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileO26LL1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58867/devtools/browser/eed7d04f-b8be-48b7-a871-ba4012f8fd14
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1677057216061	Marionette	INFO	Stopped listening on port 58906
+Dynamically enable window occlusion 1
+1681117968312	geckodriver	INFO	Listening on 127.0.0.1:52548
+1681117971368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilezXyuTZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681117971650	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681117971655	Marionette	INFO	Listening on port 52566
+Read port: 52566
+WebDriver BiDi listening on ws://127.0.0.1:52549
+1681117971804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofilezXyuTZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52549/devtools/browser/6aa80811-7de8-4c9d-9934-0dbaaa0736db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1681118307495	geckodriver	INFO	Listening on 127.0.0.1:53291
+1681118310577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53292" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileVGnZNn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681118310851	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681118310855	Marionette	INFO	Listening on port 53306
+Read port: 53306
+WebDriver BiDi listening on ws://127.0.0.1:53292
+1681118310977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\YJAVEE~1\\AppData\\Local\\Temp\\rust_mozprofileVGnZNn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53292/devtools/browser/3a6bee30-48db-4ffd-bc1a-e7103f014c94
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vault.bitwarden.com."
+1681118393871	Marionette	INFO	Stopped listening on port 53306
+Dynamically enable window occlusion 1
