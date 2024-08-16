@@ -41,9 +41,9 @@ class scrape:
         
         browser2.get(main_link)
         
-        brand_list = ['Velener','Samuel_World','Gobam','Jocuu','Unjumbly','Finerware','Hookeze','ZooSnoods','Bellaforte','Viverie','Mydethun','Kadams','Inaya']
-        username = ['UVE3pllax','UNS3pllax','UGO3pllax','JOC3pllax','UUN3plax','fiw3pllax','hoo3pllax','UNZS3plax','BELL3pllax','VIV3pllax','myd3pllax','UNK3pllax','UNI3pllax']
-        password = ['uve3pl123','UNS3pl123','UGO3pl123','JOC3pl123','uun3pl123','fiw3pl123','hoo3pl123','UNZS3pl123','bell3pl123','viv3pl123','myd3pl123','unk3pl123','UNI3pl123']
+        brand_list = []
+        username = []
+        password = []
                         
         for i in range(0,len(brand_list)):
             
