@@ -20,7 +20,7 @@ def bitwarden(browser):
 
     # email 
     WebDriverWait(browser,delay).until(EC.presence_of_element_located((By.XPATH, "//input[@id='login_input_email']")))
-    browser.find_element(By.XPATH,"//input[@id='login_input_email']").send_keys("javeed.y@una-brands.com")
+    browser.find_element(By.XPATH,"//input[@id='login_input_email']").send_keys("")
     time.sleep(5)
 
     # email continue
@@ -31,7 +31,7 @@ def bitwarden(browser):
 
     # password 
     pass_ = WebDriverWait(browser,delay).until(EC.presence_of_element_located((By.XPATH,"//input[@id='login_input_master-password']")))
-    pass_ = browser.find_element(By.XPATH,"//input[@id='login_input_master-password']").send_keys("AGN.tft*bem5qkj7qyd")
+    pass_ = browser.find_element(By.XPATH,"//input[@id='login_input_master-password']").send_keys("")
     time.sleep(5)
 
     # password continue
@@ -107,7 +107,7 @@ def scscrape_func(browser,code_browser):
     print("Entering the email")
     try:
         WebDriverWait(browser,delay).until(EC.presence_of_element_located((By.XPATH, "//input[@id='ap_email']")))
-        browser.find_element(By.XPATH,"//input[@id='ap_email']").send_keys("jujuamazonusa@juju.com.au")
+        browser.find_element(By.XPATH,"//input[@id='ap_email']").send_keys("")
         print("Done with entering email")
     except Exception as e:
         print(e)
@@ -117,7 +117,7 @@ def scscrape_func(browser,code_browser):
     print("Entering Password")
     try:
         WebDriverWait(browser,delay).until(EC.presence_of_element_located((By.XPATH, "//input[@id='ap_password']")))
-        browser.find_element(By.XPATH,"//input[@id='ap_password']").send_keys("NCLqAd8uxy$dgH")
+        browser.find_element(By.XPATH,"//input[@id='ap_password']").send_keys("")
         print("Done Entering Password")
     except Exception as e:
         print(e)
