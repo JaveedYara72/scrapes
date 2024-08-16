@@ -102,7 +102,7 @@ class scrape:
         # bitwarden email 
         try:
             WebDriverWait(browser2,delay).until(EC.presence_of_element_located((By.XPATH, "//input[@id='login_input_email']")))
-            browser2.find_element(By.XPATH,"//input[@id='login_input_email']").send_keys("javeed.y@una-brands.com")
+            browser2.find_element(By.XPATH,"//input[@id='login_input_email']").send_keys("")
         except Exception as e:
             log.info("Error ocurred while entering in the email logging in")
         time.sleep(5)
@@ -120,7 +120,7 @@ class scrape:
         # bitwarden password 
         try:
             WebDriverWait(browser2,delay).until(EC.presence_of_element_located((By.XPATH,"//input[@id='login_input_master-password']")))
-            browser2.find_element(By.XPATH,"//input[@id='login_input_master-password']").send_keys("AGN.tft*bem5qkj7qyd")
+            browser2.find_element(By.XPATH,"//input[@id='login_input_master-password']").send_keys("")
         except Exception as e:
             log.info("Error whilst entering the bitwarden password")
         time.sleep(5)
