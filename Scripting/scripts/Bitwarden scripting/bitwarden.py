@@ -13,7 +13,7 @@ def bitwarden(browser,company):
 
     # email 
     WebDriverWait(browser,delay).until(EC.presence_of_element_located((By.XPATH, "//input[@id='login_input_email']")))
-    browser.find_element(By.XPATH,"//input[@id='login_input_email']").send_keys("javeed.y@una-brands.com")
+    browser.find_element(By.XPATH,"//input[@id='login_input_email']").send_keys("")
     time.sleep(5)
 
     # email continue
@@ -24,7 +24,7 @@ def bitwarden(browser,company):
 
     # password 
     WebDriverWait(browser,delay).until(EC.presence_of_element_located((By.XPATH,"//input[@id='login_input_master-password']")))
-    browser.find_element(By.XPATH,"//input[@id='login_input_master-password']").send_keys("AGN.tft*bem5qkj7qyd")
+    browser.find_element(By.XPATH,"//input[@id='login_input_master-password']").send_keys("")
     time.sleep(5)
 
     # password continue
