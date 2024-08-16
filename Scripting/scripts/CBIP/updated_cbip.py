@@ -35,9 +35,9 @@ s3_resource = boto3.resource('s3',
         aws_access_key_id= AWS_ACCESS_KEY_ID,aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
 VInputRawPrifix = 'data/prod/landing_raw/inventory_scrapes/<brand>/'
 
-cred_username = ["yuese.teow@marvable.com"]
-cred_pass = [ "Marvable@123"]
-cred_email = ["sambhav.bhandari@una-brands.com"]
+cred_username = []
+cred_pass = [ ]
+cred_email = []
 cred_file_name = ["Marvable"]
 
 # UTIL
