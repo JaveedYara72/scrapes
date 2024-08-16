@@ -35,8 +35,8 @@ s3_resource = boto3.resource('s3',
 VInputRawPrifix = 'data/prod/landing_raw/inventory_scrapes/ninjavan/'
 
 
-cred_email = ["lester.teng+sg@una-brands.com","lester.teng@una-brands.com","jujuadmin@juju.com.au", "tsm.admin+indo@una-brands.com","tsm.admin+ph@una-brands.com"]
-cred_pass = [ "7uKa2RGaB!trDmr","7uKa2RGaB!trDmr","E4JaJ8wGB9o@WR", "85vYkd%La&iBJ%", "Nhv9@4i3Xn$y*V"]
+cred_email = []
+cred_pass = []
 cred_file_name = ["TSM_SG","TSM_MY","JUJU_MY","TSM_ID","TSM_PH"]
 
 def get_scrape_data(link_warehouse,cred_email,cred_pass,cred_file_name):
