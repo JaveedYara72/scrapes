@@ -53,7 +53,7 @@ def login(browser):
     # Username
     try:
         WebDriverWait(browser,delay).until(EC.presence_of_element_located((By.XPATH, "//input[@id='ap_email']")))
-        browser.find_element(By.XPATH,"//input[@id='ap_email']").send_keys("jujuamazonusa@juju.com.au")
+        browser.find_element(By.XPATH,"//input[@id='ap_email']").send_keys("")
         print("Entered email")
     except Exception as e:
         print(e)
@@ -62,7 +62,9 @@ def login(browser):
     # password
     try:
         WebDriverWait(browser,delay).until(EC.presence_of_element_located((By.XPATH, "//input[@id='ap_password']")))
-        browser.find_element(By.XPATH,"//input[@id='ap_password']").send_keys("NCLqAd8uxy$dgH")
+        browser.find_element(By.XPATH,"//input[@id='ap_password']").send_keys("")
+
+
         print("Entered Password")
     except Exception as e:
         print(e)
