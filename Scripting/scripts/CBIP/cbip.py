@@ -8,9 +8,9 @@ from selenium.webdriver.chrome.service import Service
 # CONFIG
 EXEC_PATH = "/Users/sambhavbhandari/Documents/chromedriver"
 HOME_PAGE = "http://fba.anchanto.com/login"
-USERNAME = "yuese.teow@marvable.com"
-PASSWORD = "Marvable@123"
-EMAIL = "sambhav.bhandari@una-brands.com"
+USERNAME = ""
+PASSWORD = ""
+EMAIL = ""
 
 # UTIL
 ytd_int = (date.today() - timedelta(days=1)).strftime('%-d')
@@ -22,9 +22,9 @@ driver.maximize_window()
 driver.get(HOME_PAGE)
 
 # LOGIN
-driver.find_element(By.ID, "user_email").send_keys("yuese.teow@marvable.com")
+driver.find_element(By.ID, "user_email").send_keys("")
 time.sleep(0.5)
-driver.find_element(By.ID, "user_password").send_keys("Marvable@123")
+driver.find_element(By.ID, "user_password").send_keys("")
 time.sleep(0.5)
 driver.find_element(By.NAME, "commit").click()
 time.sleep(0.5)
@@ -54,7 +54,7 @@ time.sleep(0.5)
 
 
 # LOGOUT
-driver.find_element(By.LINK_TEXT, "Welcome, yuese.teow@marvable.com").click()
+driver.find_element(By.LINK_TEXT, "Welcome, ").click()
 time.sleep(0.5)
 driver.find_element(By.LINK_TEXT, "Logout").click()
 time.sleep(0.5)
