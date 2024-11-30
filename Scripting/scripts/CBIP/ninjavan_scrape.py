@@ -27,12 +27,15 @@ AWS_SECRET_ACCESS_KEY = sys.argv[2]
 link_warehouse = "https://wms.anchanto.com/login"
 directoryy = os.getcwd()
 
-vBucket = 'una-brands-ops'
+vBucket = 'Random-ops'
 s3_client = boto3.client('s3',
         aws_access_key_id= AWS_ACCESS_KEY_ID,aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
 s3_resource = boto3.resource('s3',
         aws_access_key_id= AWS_ACCESS_KEY_ID,aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
-VInputRawPrifix = 'data/prod/landing_raw/inventory_scrapes/ninjavan/'
+VInputRawPrifix = 'xxxx/xxxx/xxxxxx/xxxxxxxx/ninjavan/'
+
+
+
 
 
 cred_email = []
